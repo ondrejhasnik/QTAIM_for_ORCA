@@ -1,7 +1,9 @@
-# QTAIM_for_ORCA
+# QTAIM for ORCA
 Quantum Theory of Atoms in Molecules (QTAIM) toolkit for ORCA Quantum Chemistry Program
 
 Wrapper for [Critic2](https://aoterodelaroza.github.io/critic2/).
+
+## Citations
 
 [1] A. Otero-de-la-Roza, E. R. Johnson and V. Luaña, Comput. Phys. Commun. 185, 1007-1018 (2014) http://dx.doi.org/10.1016/j.cpc.2013.10.026
 
